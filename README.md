@@ -11,7 +11,8 @@ pwn-intro-prac
 │   └── stack.c
 └── week2
     ├── bof.c
-    └── build.sh
+    ├── build.sh
+    └── payload.py
 ```
 
 ## 시작하기
