@@ -32,7 +32,9 @@ echo "[+] 32bit 환경 구성 완료"
 # 3. pwntools
 # ---------------------------
 echo "[*] pwntools 설치 시작"
-pip3 install --upgrade pwntools
+
+apt install python3-pwntools
+
 echo "[+] pwntools 설치 완료"
 
 # ---------------------------

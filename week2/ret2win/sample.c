@@ -10,7 +10,6 @@ void func(int value){
     char buf[20];
     printf("input: ");
     gets(buf);
-    printf("value: %d\n", value);
     printf("buf: %s\n", buf);
 }
 
